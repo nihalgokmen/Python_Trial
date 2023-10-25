@@ -12,7 +12,7 @@ import time
 
 def main():
     # Print the name of the OS
-
+    print(os.name)  
     
     # Check for item existence and type
 
@@ -26,5 +26,5 @@ def main():
     # Calculate how long ago the item was modified
 
   
-   if __name__ == "__main__":
-    main()
+    if __name__ == "__main__":
+        main()
