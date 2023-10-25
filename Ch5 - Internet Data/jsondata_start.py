@@ -4,6 +4,7 @@
 #
 
 import urllib.request 
+import json
 
 def printResults(data):
     # Use the json module to load the string data into a dictionary

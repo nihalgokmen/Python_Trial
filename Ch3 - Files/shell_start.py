@@ -5,6 +5,7 @@
 
 import os
 from os import path
+import shutil
 
 def main():
     # make a duplicate of an existing file
